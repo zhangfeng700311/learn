@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-   cout << "test" << endl; 
+    cout << "testA" << endl;
+    cout << "testB" << endl;
     cout << "hello" << endl;
     return 0;
 }
